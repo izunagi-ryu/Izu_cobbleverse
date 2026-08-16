@@ -1,5 +1,7 @@
 # Docker Cobbleverse Server
 
+I am currently testing and editing this from Blue-Kachina please check their page.
+
 A streamlined solution for running a Cobbleverse modded Minecraft server using Docker. 
 It manages the timely installation of the mods/packs prior to world generation.
 Has auto-backup capabilities too
